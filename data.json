@@ -1,5 +1,5 @@
 {
-  "data": [
+  "data": {
     {
     "type": "Simple Linear Regression",
     "id": "1",
@@ -12,5 +12,5 @@
     "type": "Image Classification",
     "id": "3",
     },
-  ]
+  }
 }
